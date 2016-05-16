@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kevin C Lee, site launch"
+title: "Site launch"
 date: 2016-05-16
 ---
 
