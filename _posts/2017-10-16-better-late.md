@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New workstation"
+title: "Better late than never"
 date: 2017-10-16
 ---
 
@@ -12,7 +12,7 @@ Well, the promised update has taken much longer than expected. This blog is best
 
 1. Went to Kanazawa two more times, March and October. This has helped establishing and solidifying collaborative relationship regarding biological aerosol studies.
 2. I started working on a geothermal metagenome project. A project I can call my own, which is quite exciting. I have many draft notes I should and plan to consolidate.
-3. It's about time for me to update my methods notes and so it seems the outdated notes may no longer be necessary. I hope I can gather the new methods, potentially for future classes.
+3. With the installation of a new workstation computer, it's about time for me to update my methods notes and so it seems the outdated notes may no longer be necessary. I hope I can gather the new methods, potentially for future classes.
 
 ## TO DO (forever delayed but still on my mind)
 
